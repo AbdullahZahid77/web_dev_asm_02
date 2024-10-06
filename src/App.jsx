@@ -15,6 +15,13 @@ import Profile from './components/argon/Profile'
 import Navbar3 from './components/restaurant/Navbar3'
 import Textandpic from './components/restaurant/Textandpic'
 import Restcards from './components/restaurant/Restcards'
+import Menu from './components/restaurant/Menu'
+import Special from './components/restaurant/Special'
+import BookingForm from './components/restaurant/BookingForm'
+import Footer2 from './components/restaurant/Footer2'
+import Contact from './components/restaurant/Contact'
+
+
 function App() {
 
   return (
@@ -34,6 +41,12 @@ function App() {
     <Navbar3/>
     <Textandpic/>
     <Restcards/>
+    <Menu/>
+    <Special/>
+    <BookingForm/>
+    <Footer2/>
+    <Contact/>
+    
     </>
   )
 }
