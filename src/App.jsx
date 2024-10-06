@@ -4,6 +4,8 @@ import LatestProjects from './components/admin/LatestProjects'
 import './App.css'
 import Footer from './components/admin/Footer'
 import MonthlySales from './components/admin/MonthlySales'
+import Visitors from './components/admin/Visitors'
+import WeatherCard from './components/argon/WeatherCard'
 
 function App() {
 
@@ -13,6 +15,8 @@ function App() {
      <Footer />
     <LatestProjects />  
     <MonthlySales />
+    <Visitors />
+    <WeatherCard />
     </>
   )
 }
