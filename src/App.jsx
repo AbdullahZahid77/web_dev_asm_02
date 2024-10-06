@@ -10,6 +10,11 @@ import SocialPost from './components/argon/SocialPost'
 import PostingRectangular from './components/argon/PostingRectangular'
 import Navbar2 from './components/argon/Navbar2'
 import ListingCard from './components/argon/ListingCard'
+import ChatBar from './components/argon/ChatBar'
+import Profile from './components/argon/Profile'
+import Navbar3 from './components/restaurant/Navbar3'
+import Textandpic from './components/restaurant/Textandpic'
+import Restcards from './components/restaurant/Restcards'
 function App() {
 
   return (
@@ -24,6 +29,11 @@ function App() {
     <PostingRectangular />
     <Navbar2 />
     <ListingCard />
+    <ChatBar />
+    <Profile />
+    <Navbar3/>
+    <Textandpic/>
+    <Restcards/>
     </>
   )
 }
