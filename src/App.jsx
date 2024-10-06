@@ -7,7 +7,9 @@ import MonthlySales from './components/admin/MonthlySales'
 import Visitors from './components/admin/Visitors'
 import WeatherCard from './components/argon/WeatherCard'
 import SocialPost from './components/argon/SocialPost'
-
+import PostingRectangular from './components/argon/PostingRectangular'
+import Navbar2 from './components/argon/Navbar2'
+import ListingCard from './components/argon/ListingCard'
 function App() {
 
   return (
@@ -19,6 +21,9 @@ function App() {
     <Visitors />
     <WeatherCard />
     <SocialPost />
+    <PostingRectangular />
+    <Navbar2 />
+    <ListingCard />
     </>
   )
 }
