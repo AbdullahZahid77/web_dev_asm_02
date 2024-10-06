@@ -6,6 +6,7 @@ import Footer from './components/admin/Footer'
 import MonthlySales from './components/admin/MonthlySales'
 import Visitors from './components/admin/Visitors'
 import WeatherCard from './components/argon/WeatherCard'
+import SocialPost from './components/argon/SocialPost'
 
 function App() {
 
@@ -17,6 +18,7 @@ function App() {
     <MonthlySales />
     <Visitors />
     <WeatherCard />
+    <SocialPost />
     </>
   )
 }
