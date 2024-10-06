@@ -1,13 +1,14 @@
-import { useState } from 'react'
 import Navbar from './components/admin/Navbar'
+import CalendarCard from './components/admin/Footer'
 import './App.css'
+import Footer from './components/admin/Footer'
 
 function App() {
-  const [count, setCount] = useState(0)
 
   return (
     <>
      <Navbar />
+     <Footer />
     </>
   )
 }
