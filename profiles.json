@@ -1,0 +1,55 @@
+[
+  {
+    "personalInfo": {
+      "name": "Abdullah Zahid",
+      "role": "Deep Learning Engineer"
+    },
+    "skills": [
+      "c++",
+      "python",
+      "pytorch",
+      "scikit-learn",
+      "seaborn",
+      "matplotlib",
+      "numpy",
+      "opencv",
+      "shapely",
+      "contextily"
+    ],
+    "softSkills": [
+      "Team Work",
+      "Time Management",
+      "Problem Solving",
+      "Adaptability"
+    ],
+    "education": [
+      "Information Technology University (BSCS)",
+      "New Middle East International School (A-Levels)"
+    ],
+    "certifications": [
+      "Google Data Analytics Certificate",
+      "IBM Data Analysis with Python",
+      "OpenCV University OpenCV Bootcamp",
+      "Kaggle - Machine Learning"
+    ],
+    "projects": [
+      {
+        "title": "Enhancing Military Operations and Logistics with Geospatial Analysis",
+        "description": "Selected Standout Project"
+      },
+      {
+        "title": "NASDAQ Price Prediction with Machine Learning",
+        "description": "Stock Price Movement Prediction"
+      },
+      {
+        "title": "Real-Time Color Detector using HSV Colorspace",
+        "description": "Computer Vision"
+      }
+    ],
+    "socialMediaLinks": {
+      "linkedin": "https://www.linkedin.com/in/abdullah-zahid-410874229/",
+      "github": "https://github.com/AbdullahZahid77"
+    },
+    "youtubeVideo": "https://www.youtube.com/embed/GNDO2G6YySA"
+  }
+]
